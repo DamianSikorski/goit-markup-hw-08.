@@ -1,0 +1,24 @@
+@import "utils/variables.scss";
+
+@import "./base/common";
+@import "./base/container";
+@import "./base/section";
+
+@import "./components/button";
+@import "./components/primary-header";
+@import "./components/logo";
+@import "./components/visually-hidden";
+@import "./components/circular-button";
+
+@import "./main-page-layout/header";
+@import "./main-page-layout/hero";
+@import "./main-page-layout/descriptions-section";
+@import "./main-page-layout/what-we-do";
+@import "./main-page-layout/our-team";
+@import "./main-page-layout/our-clients";
+@import "./main-page-layout/footer";
+@import "./main-page-layout/modal-window";
+@import "./main-page-layout/mobile-menu";
+
+@import "./portfolio-layout/buttons-section";
+@import "./portfolio-layout/grid";
